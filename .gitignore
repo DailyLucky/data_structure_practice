@@ -1,0 +1,8 @@
+# 屏蔽的文件或文件夹如下
+
+# /
+# folder
+build
+
+# files
+temp.c
